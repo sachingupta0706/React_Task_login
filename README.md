@@ -1,3 +1,7 @@
+FOLDER STRUCTURE
+ src/component/Dashboard.jsx/LoginForm.jsx
+
+
 ** React login Dashboard Task
 
 This is a simple React application that demonstrates:
